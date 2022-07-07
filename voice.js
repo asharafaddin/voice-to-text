@@ -1,4 +1,6 @@
-    ////////// declare variables and link them to control html objects //////////
+// powered by asharafaddin    
+
+////////// declare variables and link them to control html objects //////////
     var speak = document.getElementById('click');
     var textarea = document.getElementById('voice_reslut');
     var ar = document.getElementById('arabic');
