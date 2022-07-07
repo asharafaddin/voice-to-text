@@ -1,0 +1,51 @@
+body{
+background: linear-gradient(to right, rgba(255, 255, 255, 0), rgb(174, 0, 255));
+
+};
+
+.voice_reslut{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: centers;
+    resize: none;
+    border-radius: 20px;
+    padding: 10px;
+}
+textarea{  
+    height: 400px;
+    width: 800px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: centers;
+    resize: none;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+
+button{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: centers;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-top: 10px;
+    background-color: rgb(101, 86, 215);
+    height: 50px;
+    padding-top: 10px;
+
+}
+
+
+h1{
+ text-align: center;
+ font-size: 50px;
+ font-family: monospace;
+color: rgb(0, 0, 0);
+}
