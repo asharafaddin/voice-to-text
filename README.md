@@ -5,7 +5,7 @@ javascript code for converting voice to text
 
 //////////////////////// steps to run wasdom esp 32 bit ///////////////////////////////////////
 1- plug in Esp 32 bit board and make sure that you have installed the Appropriate driver.=
-2- downlaod arduino IDE from arduino IDE and install it on your windows or linux.
+2- downlaod arduino IDE from [arduino IDE](https://www.arduino.cc/en/software) and install it on your windows or linux.
 3- in arduino IDE. go for tools > click on boards > board manager.
 4- in search bar type esp32 and install it.
 5-from tools > boards. select your board type.
